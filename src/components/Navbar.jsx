@@ -29,10 +29,10 @@ const Navbar = ({ showDetails, setShowDetails }) => {
             onClick={() => setShowDetails(!showDetails)}
             style={{ paddingRight: "10px" }}
           >
-            Diom Jasper Yam
+{/*             Diom Jasper Yam */}
           </p>
           <div className="img">
-            <img src={me} alt="my picture" style={{ width: "80px", height: "100px" }} />
+{/*             <img src={me} alt="my picture" style={{ width: "80px", height: "100px" }} /> */}
           </div>
         </div>
       </nav>
